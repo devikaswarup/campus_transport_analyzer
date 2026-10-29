@@ -1,8 +1,6 @@
 streamlit
-pandas
 numpy
+pandas
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
-altair
-pydeck
